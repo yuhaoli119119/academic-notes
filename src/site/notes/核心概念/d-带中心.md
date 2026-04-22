@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//d/","noteIcon":"","dg-note-properties":{"share_link":"https://share.note.sx/1jxihhkg#V1Zf9lxUsHkN1czKY5S9lbJJHe+0u7emdHL1xM15QeU","share_updated":"2026-04-22T02:33:50+08:00","share_expires":"2 minutes"}}
+{"dg-publish":true,"permalink":"/核心概念/d-带中心/","noteIcon":"","dg-note-properties":{"share_link":"https://share.note.sx/1jxihhkg#V1Zf9lxUsHkN1czKY5S9lbJJHe+0u7emdHL1xM15QeU","share_updated":"2026-04-22T02:33:50+08:00","share_expires":"2 minutes"}}
 ---
 
 ### 一、 理论基石：什么是 d 带中心？
