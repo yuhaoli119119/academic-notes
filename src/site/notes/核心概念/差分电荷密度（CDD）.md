@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/核心概念/差分电荷密度（CDD）/","noteIcon":"","dg-note-properties":{"share_expires":null,"share_link":"https://share.note.sx/vl4nx7l0#ivIA8C6siaKxS8YhAJvDiWHxQmJZFmSYPFrR41Jksgg","share_updated":"2026-04-22T02:33:25+08:00"}}
+{"dg-publish":true,"permalink":"/核心概念/差分电荷密度（CDD）/","noteIcon":"","dg-note-properties":{"share_expires":null,"share_link":"https://share.note.sx/v2sbo8a4#ivIA8C6siaKxS8YhAJvDiWHxQmJZFmSYPFrR41Jksgg","share_updated":"2026-04-22T19:07:20+08:00"}}
 ---
 
 无论是研究分子在催化剂表面的吸附、还是两种材料拼接形成的异质结界面，CDD 都是目前顶刊论文中最直观、最必不可少的表征手段。 #异质结 #吸附 
