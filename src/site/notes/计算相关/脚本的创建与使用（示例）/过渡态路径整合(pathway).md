@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/计算相关/脚本的创建与使用（示例）/过渡态路径整合(pathway)/","noteIcon":"","dg-note-properties":{"share_link":"https://share.note.sx/lhq6a348#fJwYzRCv/IdktT7mTdfpo2ePKpQBQCieasZ4swrKJW4","share_updated":"2026-04-25T04:05:16+08:00","tags":null}}
+{"dg-publish":true,"permalink":"/计算相关/脚本的创建与使用（示例）/过渡态路径整合(pathway)/","tags":["服务器","脚本","DFT计算","代码"],"noteIcon":"","dg-note-properties":{"share_link":"https://share.note.sx/lhq6a348#fJwYzRCv/IdktT7mTdfpo2ePKpQBQCieasZ4swrKJW4","share_updated":"2026-04-25T04:05:16+08:00","tags":["服务器","脚本","DFT计算","代码"]}}
 ---
 
-知识库入口：[李院士知识库](../../第一性原理概念/李院士知识库.md)
+知识库入口：[[第一性原理概念/李院士知识库\|李院士知识库]]
 
 ### 一、 过渡态路径整合脚本：`pathway`
 
