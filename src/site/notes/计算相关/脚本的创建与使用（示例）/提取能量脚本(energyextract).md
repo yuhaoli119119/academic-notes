@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/计算相关/脚本的创建与使用（示例）/提取能量脚本(energyextract)/","tags":["服务器","代码","脚本","DFT计算"],"noteIcon":"","dg-note-properties":{"share_link":"https://share.note.sx/6vubtj2t#rOMCe+kOJBbkl7s2r484iR/WiPiawnoQGA7yW0Lcvdo","share_updated":"2026-04-25T04:05:00+08:00","tags":["服务器","代码","脚本","DFT计算"]}}
+{"dg-publish":true,"permalink":"/计算相关/脚本的创建与使用（示例）/提取能量脚本(energyextract)/","noteIcon":"","dg-note-properties":{"share_link":"https://share.note.sx/6vubtj2t#rOMCe+kOJBbkl7s2r484iR/WiPiawnoQGA7yW0Lcvdo","share_updated":"2026-04-25T04:05:00+08:00","tags":null}}
 ---
 
+知识库入口：[李院士知识库](../../第一性原理概念/李院士知识库.md)
 
 ### 一、 自动化提取脚本：`energyextract
 
