@@ -160,7 +160,7 @@ chmod +x ~/my_scripts/pathway
 
 让系统在任何目录都能找到你的 `pathway` 命令，执行以下命令写入配置：
 
-Bash (若该目录之前已经加入过[PATH](改变脚本名字（简洁版）.md#^aa0e91)则跳过该步骤)
+Bash (若该目录之前已经加入过[PATH](改变脚本名字.md#^aa0e91)则跳过该步骤)
 
 ```
 echo 'export PATH="$HOME/my_scripts:$PATH"' >> ~/.bashrc
