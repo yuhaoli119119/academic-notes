@@ -3,7 +3,7 @@
 ---
 
 
-知识库入口：[[第一性原理概念/李院士知识库\|李院士知识库]]
+知识库入口：[[李院士知识库\|李院士知识库]]
 
 #### The symmetric pathway S1 was considered as follows:
 

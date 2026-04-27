@@ -2,13 +2,12 @@
 {"dg-publish":true,"permalink":"/第一性原理概念/差分电荷密度（CDD）/","noteIcon":"","dg-note-properties":{"share_expires":null,"share_link":"https://share.note.sx/v2sbo8a4#ivIA8C6siaKxS8YhAJvDiWHxQmJZFmSYPFrR41Jksgg","share_updated":"2026-04-22T19:07:20+08:00"}}
 ---
 
-知识库入口：[[第一性原理概念/李院士知识库\|李院士知识库]]
-
+<center></center>
 无论 是研究分子在催化剂表面的吸附、还是两种材料拼接形成的异质结界面，CDD 都是目前顶刊论文中最直观、最必不可少的表征手段。 #异质结 #吸附 
 
 ### 一、 核心定义与计算公式
 
-**差分[[基础概念/电荷密度\|../基础概念/电荷密度]]（CDD）**的本质，就是为了剥离掉原子本身固有的电子云“背景”，单独把**“因为相互作用而发生移动的电子”**给提取出来。它的核心公式非常简单直接：
+**差分[[基础概念/电荷密度\|电荷密度]]（CDD）**的本质，就是为了剥离掉原子本身固有的电子云“背景”，单独把**“因为相互作用而发生移动的电子”**给提取出来。它的核心公式非常简单直接：
 
 $$\Delta\rho=\rho_{AB}-\rho_A-\rho_B$$
 
@@ -29,6 +28,9 @@ $$\Delta\rho=\rho_{AB}-\rho_A-\rho_B$$
     
 2. **负值区（$\Delta\rho<0$）**：通常被渲染为**蓝色、青色或冷色系**。这意味着在该区域发生了**电荷消耗（Electron Depletion）**，也就是电子“从这里流失了”。
    
+如下图所示：
+![610](/img/user/%E7%AC%AC%E4%B8%80%E6%80%A7%E5%8E%9F%E7%90%86%E6%A6%82%E5%BF%B5/assets/%E5%B7%AE%E5%88%86%E7%94%B5%E8%8D%B7%E5%AF%86%E5%BA%A6%EF%BC%88CDD%EF%BC%89/%E5%B7%AE%E5%88%86%E7%94%B5%E8%8D%B7%E5%AF%86%E5%BA%A6%E7%A4%BA%E6%84%8F%E5%9B%BE.png)
+
 ### 三、 第一性原理（DFT）计算标准化流程
 
 在实际科研中（以使用最广泛的 VASP 软件为例），获取 CDD 需要进行**三次独立的静态计算（Static Calculation，即 `NSW=0`）**：

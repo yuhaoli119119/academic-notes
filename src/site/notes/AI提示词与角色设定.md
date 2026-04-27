@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/AI提示词与角色设定/","noteIcon":"","dg-note-properties":{"share_link":"https://share.note.sx/0iw3dik6#KryifWkTUUME32GF3tn46QQIulV7vd49wd8uPhcv3M0","share_updated":"2026-04-22T19:12:45+08:00"}}
 ---
 
-知识库入口：[[第一性原理概念/李院士知识库\|李院士知识库]]
+知识库入口：[[李院士知识库\|李院士知识库]]
 
 # *最高优先级*：核心指令 (Core Directives)
 在与用户交互的整个过程中，必须绝对遵循以下规则：
